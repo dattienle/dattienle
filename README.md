@@ -48,8 +48,8 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding](https://coursera.org/share/50e3ed95e5215519a9b95aa398b6816f)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green)Web Design for Everybody: Basics of Web Development & Coding](https://www.coursera.org/account/accomplishments/specialization/certificate/29PMHPW7VQFZ)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to HTML5](https://www.coursera.org/account/accomplishments/certificate/6GZQLKA6CKES)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to CSS3](https://www.coursera.org/account/accomplishments/certificate/J4W7WXAG4PGN)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/certificate/S96Q3BSHNYHF)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Advanced Styling with Responsive Design](https://www.coursera.org/account/accomplishments/certificate/757BT8Q88Q95)
